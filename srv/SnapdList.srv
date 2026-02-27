@@ -1,0 +1,4 @@
+---
+bool success # indicates successful listing of services
+string message # informational, e.g. error messages
+string[] services # list of snapd services

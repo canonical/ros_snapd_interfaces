@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>ros_snapd_interfaces</name>
+  <version>0.0.1</version>
+  <description>Interface definitions for ros-snapd.</description>
+
+  <maintainer email="ubuntu-robotics@canonical.com">Ubuntu Robotics</maintainer>
+
+  <license>GPL-3.0</license>
+
+  <author email="jeremie.deray@canonical.com">Jeremie Deray</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>
