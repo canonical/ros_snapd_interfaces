@@ -6,3 +6,5 @@ This repository provides the service definitions used by both ROS 1 and ROS 2. T
 
 - https://snapcraft.io/ros-snapd
 - https://snapcraft.io/ros2-snapd
+
+ROS 1 interface definitions are available on the `ros` branch of this repository.
